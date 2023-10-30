@@ -1,3 +1,3 @@
 # TEJ4M-Unit4-08-Schematic
 
-Electronic schematic & PCB for Unit4-08
+Contains the electronic schematic & PCB for Unit4-08
